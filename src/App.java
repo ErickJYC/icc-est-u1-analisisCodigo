@@ -22,33 +22,33 @@ public class App {
                 "Resultado burbuja tradicional Metodo 1 : " +
                         java.util.Arrays.toString(arregloBurbujaOrdenado1));
 
-        // // Metodo burbujaTradicionalSegundo
-        // int[] arregloBurbujaOrdenado2 =
-        // ordenador.burbujaTradicionalSegundo(arregloBurbuja);
-        // System.out.println(
-        // "Resultado burbuja tradicional Metodo 2: " +
-        // java.util.Arrays.toString(arregloBurbujaOrdenado2));
+         // Metodo burbujaTradicionalSegundo
+         int[] arregloBurbujaOrdenado2 =
+         ordenador.burbujaTradicionalSegundo(arregloBurbuja);
+         System.out.println(
+         "Resultado burbuja tradicional Metodo 2: " +
+         java.util.Arrays.toString(arregloBurbujaOrdenado2));
 
-        // // // Metodo burbujaTradicionalTercero
-        // int[] arregloBurbujaOrdenado3 =
-        // ordenador.burbujaTradicionalTercero(arregloBurbuja);
-        // System.out.println(
-        // "Resultado burbuja tradicional Metodo 3: " +
-        // java.util.Arrays.toString(arregloBurbujaOrdenado3));
+         // Metodo burbujaTradicionalTercero
+         int[] arregloBurbujaOrdenado3 =
+         ordenador.burbujaTradicionalTercero(arregloBurbuja);
+         System.out.println(
+         "Resultado burbuja tradicional Metodo 3: " +
+         java.util.Arrays.toString(arregloBurbujaOrdenado3));
 
-        // Metodo seleccionPrimero
-        // int[] arregloSeleccionOrdenado1 =
-        // ordenador.seleccionPrimero(arregloSeleccion);
-        // System.out.println(
-        // "Resultado selección Metodo 1: " +
-        // java.util.Arrays.toString(arregloSeleccionOrdenado1));
+         // Metodo seleccionPrimero
+         int[] arregloSeleccionOrdenado1 =
+         ordenador.seleccionPrimero(arregloSeleccion);
+         System.out.println(
+         "Resultado selección Metodo 1: " +
+         java.util.Arrays.toString(arregloSeleccionOrdenado1));
 
-        // Metodo seleccionSegundo
-        // int[] arregloSeleccionOrdenado2 =
-        // ordenador.seleccionSegundo(arregloSeleccion);
-        // System.out.println(
-        // "Resultado selección Metodo 2: " +
-        // java.util.Arrays.toString(arregloSeleccionOrdenado2));
+         // Metodo seleccionSegundo
+         int[] arregloSeleccionOrdenado2 =
+         ordenador.seleccionSegundo(arregloSeleccion);
+         System.out.println(
+         "Resultado selección Metodo 2: " +
+         java.util.Arrays.toString(arregloSeleccionOrdenado2));
 
         // // Metodo seleccionTercero
         // int[] arregloSeleccionOrdenado3 =
